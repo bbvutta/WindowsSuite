@@ -1,0 +1,25 @@
+
+                                                                                                          
+                                                      ,...                                                
+`7MMF' `YMM'`7MMF'   `7MF'`7MMF' .M"""bgd           .d' ""mm           Windows Suite                     
+  MM   .M'    MM       M    MM  ,MI    "Y           dM`   MM                                              
+  MM .d"      MM       M    MM  `MMb.      ,pW"Wq. mMMmmmmMMmm `7M'    ,A    `MF',6"Yb.  `7Mb,od8 .gP"Ya  
+  MMMMM.      MM       M    MM    `YMMNq. 6W'   `Wb MM    MM     VA   ,VAA   ,V 8)   MM    MM' "',M'   Yb 
+  MM  VMA     MM       M    MM  .     `MM 8M     M8 MM    MM      VA ,V  VA ,V   ,pm9MM    MM    8M"""""" 
+  MM   `MM.   YM.     ,M    MM  Mb     dM YA.   ,A9 MM    MM       VVV    VVV   8M   MM    MM    YM.    , 
+.JMML.   MMb.  `bmmmmd"'  .JMML.P"Ybmmd"   `Ybmd9'.JMML.  `Mbmo     W      W    `Moo9^Yo..JMML.   `Mbmmd' 
+                                                                                                          
+                                                                                                          
+##########################
+
+Download Tutorial:
+Note: Dont drag the number files into the files. Drag the files IN IT to the files specified
+Note: Remove the quotes in the file directory (Example: "C:\Users\" would be C:\Users\)
+
+The files in 1 go in "C:\Program Files" (this requites admin permission)
+
+The files in 2 go in "Documents"
+
+The files in 3 go in "Desktop"
+
+
